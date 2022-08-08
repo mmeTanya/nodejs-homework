@@ -45,5 +45,3 @@ module.exports = {
   removeContact,
   addContact,
 };
-
-git remote add origin https://github.com/mmeTanya/nodejs-homework.git
